@@ -12,7 +12,9 @@ If accepted, your fork will be merged (squash style) and then moved to the `newm
 
 Quality modules that are well written will be then moved to the `modules` folder.
 
-## Modifying your already-submitted module
+## Updating your module
 Please fork this repo again and modify your module to your liking. Leave your module where it is. Submit a PR when your module has been updated. It must also follow the requirements set in the section above.
 
 If accepted, your fork will be merged (squash style) and your module will be updated.
+
+Please note that only the original module author can update the module. If there's any change in mantainence-ship, please start an issue to change it.
